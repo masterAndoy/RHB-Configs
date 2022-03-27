@@ -1,1 +1,1 @@
-# RHB-Configs
+New app configs
